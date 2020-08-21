@@ -17,20 +17,20 @@ do {
 // Etape 3 : Creez les 4 fonctions
 // Fonction Addition 
 function addition(nomnbreA,nomberB) {
-    return nomnbreA + nomnbreA;
+    return nomnbreA + nomnbreB;
 }
 // Fonction Soustraction
 function soustraction(nomnbreA,nomberB) {
-    return nomnbreA - nomnbreA;
+    return nomnbreA - nomnbreB;
 }
 // Fonction Multiplication
 function multiplication(nomnbreA,nomberB) {
-    return nomnbreA * nomnbreA;
+    return nomnbreA * nomnbreB;
 }
 
 // Fonction Division
 function division(nomnbreA,nomberB) {
-    return nomnbreA / nomnbreA;
+    return nomnbreA / nomnbreB;
 }
 
 
