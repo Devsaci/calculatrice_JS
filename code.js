@@ -49,3 +49,6 @@ switch (choix) {
         var resultat = division(premierNombre,deuxiemeNombre)
         break;
 }
+
+//Etape 5 : Afficher le résultat
+alert("Voici le résultat :   "+ resultat)
